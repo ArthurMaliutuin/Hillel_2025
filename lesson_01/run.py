@@ -1,1 +1,1 @@
-print("Hello, lesson 1 ")
+print("Trying to run python")
